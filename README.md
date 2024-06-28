@@ -2,6 +2,7 @@
 
 - Windows 11 Pro
 - PowerShell 7.4.2
+- OpenJDK Runtime Environment Temurin-22.0.1+8 (build 22.0.1+8)
 - deps.clj 1.11.3.1463
 - clj-kondo v2024.05.24
 
