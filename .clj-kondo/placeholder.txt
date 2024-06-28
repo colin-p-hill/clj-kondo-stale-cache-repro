@@ -1,0 +1,1 @@
+This is just here so git creates the kondo dir for you, for convenience.
